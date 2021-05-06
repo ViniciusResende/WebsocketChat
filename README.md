@@ -34,7 +34,8 @@
 <h2 align="left" display="inline">Client Screen:</h2>
 <h2 align="right" display="inline">Admin Screen:</h2>
 
- <img alt="NLW5-client" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1620300132/Podcastr%202.0/NodeClient_ovkmt3.gif"> <img alt="NLW5-admin" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1620300236/Podcastr%202.0/NodeAdmin_tawnxb.gif">
+ <img alt="NLW5-client" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1620300132/Podcastr%202.0/NodeClient_ovkmt3.gif" width="480px"><img alt="NLW5-admin" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1620300236/Podcastr%202.0/NodeAdmin_tawnxb.gif" width="480px"> 
+
  
 </br>
 </br>
